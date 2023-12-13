@@ -9,7 +9,7 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.ghost3432.translateideaplugin.toolWindow.TranslateToolWindowFactory" id="MyToolWindow"/>
+        <toolWindow factoryClass="com.github.ghost3432.translateideaplugin.toolWindow.TranslateToolWindowFactory" id="Translate"/>
     </extensions>
 
     <applicationListeners>
